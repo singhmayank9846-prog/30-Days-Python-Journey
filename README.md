@@ -74,5 +74,43 @@ To build strong fundamentals in Python before moving to advanced topics.
 ✔ Practice Done  
 
 
-📌 **Next Step**: Moving towards conditional statements & loops.
+# Python Chapter 4 – Lists & Tuples 🐍
+
+This repository contains my practice work for **Chapter 4 of Python**, where I learned and implemented **Lists and Tuples** concepts.
+
+## 📌 Topics Covered
+
+### 🔹 Lists
+- Creating lists
+- Indexing & slicing
+- List methods:
+  - append()
+  - insert()
+  - extend()
+  - remove()
+  - pop()
+  - clear()
+  - index()
+  - count()
+  - sort()
+  - reverse()
+- Practice problems based on lists
+
+### 🔹 Tuples
+- Creating tuples
+- Tuple indexing & slicing
+- Tuple methods:
+  - count()
+  - index()
+- Difference between List and Tuple
+- Tuple practice questions
+
+## 📂 Files Included
+- `list_practice.py`
+- `tuple_practice.py`
+
+
+
+
+
 
